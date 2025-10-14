@@ -12,11 +12,11 @@
 ## 🧭 Table of Contents
 - [About Me](#-about-me)
 - [Skills](#-skills)
-- [My Projects](#-my-projects)
+- [My Projects](#-my-github-repositories)
 - [Goals](#-goals)
-- [Quote](#-quote)
 - [GitHub Stats](#-github-stats)
 - [Contact Me](#-contact-me)
+- [Quote](#-quote)
 
 ---
 ## 🎯 About Me
@@ -48,9 +48,9 @@ My name is Subhan Ahmad. I'm a 3rd-semester Data Science student at PUCIT, passi
 
 ---
 
-### 📂My Github Repositories
+### 📂 My Github Repositories
 
-- **[IDS website](https://github.com/subhansaafir/IDS-Website)**  
+- **[IDS website](https://subhansaafir.github.io/IDS-Website/)**  
   A website which explains data science concepts and tools, build using html, css, java
 
 - **[Pending Projects]**
@@ -59,28 +59,27 @@ My name is Subhan Ahmad. I'm a 3rd-semester Data Science student at PUCIT, passi
 
 ## 📋 Goals
 
-- [x] Learn Git & GitHub Basics  
+- [x] Learn Programming language (C++, Python)
+- [x] Learn Git and Github 
 - [x] Build my first project 🚀  
-- [ ] Learn Python deeply (OOP, automation)  
+- [ ] Learn Python deeply (automation)  
 - [ ] Build and deploy an AI app 🤖  
 - [ ] Contribute to open-source 🌍
-
----
-
-## 📝 Quote
-
-> “The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene
-
+- [ ] Become AI professional 🌍
+      
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhansaafir&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhansaafir&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=subhansaafir&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhansaafir&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhansaafir&layout=compact&theme=tokyonight" />
+
+</div>
+
 
 ---
 
@@ -91,4 +90,5 @@ My name is Subhan Ahmad. I'm a 3rd-semester Data Science student at PUCIT, passi
 🌐 **GitHub:** [github.com/subhansaafir](https://github.com/subhansaafir)
 
 ---
-> “Small consistent efforts, when compounded over time, create extraordinary results.” – GPT baba
+## 📝 Quote
+> “Small consistent efforts, when compounded over time, create extraordinary results.”
