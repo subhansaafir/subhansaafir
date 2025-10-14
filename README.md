@@ -1,7 +1,8 @@
-<!-- Banner / GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000" alt="Welcome Banner">
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh5b2NkdTcwOXMwNTZqc2kyZ3o4YmxvbTJ2d3BzZDVtZHVpZHFqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="800" height="250" alt="Welcome Banner">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Subhan Ahmad</h1>
 <h3 align="center">📊 Data Science Student | 🤖 AI Enthusiast | 💻 Explorer of Tech & Automation</h3>
@@ -90,9 +91,4 @@ My name is Subhan Ahmad. I'm a 3rd-semester Data Science student at PUCIT, passi
 🌐 **GitHub:** [github.com/subhansaafir](https://github.com/subhansaafir)
 
 ---
-
-<p align="center">
-  Thanks for visiting my profile ✨  
-  <br/>
-  ⭐ *Feel free to follow me to see my journey as I learn, build & grow.*
-</p>
+> “Small consistent efforts, when compounded over time, create extraordinary results.” – GPT baba
