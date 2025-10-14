@@ -1,10 +1,10 @@
 <!-- Banner / GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Welcome Banner">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000" alt="Welcome Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Subhan Saafir</h1>
-<h3 align="center">🚀 Data Science Student | 🤖 AI Enthusiast | 💻 Explorer of Tech & Automation</h3>
+<h1 align="center">Hi 👋, I'm Subhan Ahmad</h1>
+<h3 align="center">📊 Data Science Student | 🤖 AI Enthusiast | 💻 Explorer of Tech & Automation</h3>
 
 ---
 
@@ -18,20 +18,12 @@
 - [Contact Me](#-contact-me)
 
 ---
-
-## 🧭 About Me
-
-🎓 **Name:** Subhan Saafir  
-🏫 **University:** BS Data Science – 3rd Semester  
-💡 I’m a curious learner who loves exploring **AI** and how technology can make our lives easier.  
-⚡ Passionate about building creative things, automating tasks, and learning new tools that solve real problems.
+## 🎯 About Me
+My name is Subhan Ahmad. I'm a 3rd-semester Data Science student at PUCIT, passionate about exploring **`AI technologies, intelligent tools, and creative automation`**. I love learning how to use **`Python, AI tools, and data analysis`** to make work easier and smarter. I enjoy experimenting with **`AI-powered apps, automation ideas, and practical projects`** to keep improving my skills step by step.
 
 ---
 
-## 🛠️ Skills
-
-Here are some of the tools and technologies I’ve worked with:
-
+## 🧠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,17 +33,27 @@ Here are some of the tools and technologies I’ve worked with:
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
+<div align="center">
 
-## 📂 My Projects
+| Skills                        | Skill level               |
+|-------------------------------|---------------------------|
+| C++ (DSA & OOP)               | ★★★☆☆ (Solid)            |
+| Python                        | ★★☆☆☆ (Intermediate)     |
+| AI Tools, Prompt Engineering  | ★★★☆☆ (Good)             |
+| Probability and Stats (Math)  | ★★★☆☆ (Good)             |
+| Git & GitHub                  | ★☆☆☆☆ (Learning)         |
 
-| Project Name                    | Description                                                                            | Tech Used                  | Link                               |
-|----------------------------------|-----------------------------------------------------------------------------------------|----------------------------|------------------------------------|
-| 📝 Intro to Data Science Website | A basic text-based website explaining data science concepts.                            | HTML, CSS                  | *(Coming Soon)*                    |
-| 🤖 AI Notes Summarizer          | A simple AI app to summarize long text into short points. *(Placeholder project)*        | Python, AI Tools           | *(Coming Soon)*                    |
-| 📊 Student Dashboard            | A mini dashboard to show student data and analysis. *(Placeholder project)*              | Python, Pandas, Plotly     | *(Coming Soon)*                    |
+</div>
 
-> 📌 *I’ll keep adding more real projects here as I grow in my learning journey.*
+---
 
+### 📂My Github Repositories
+
+- **[IDS website](https://github.com/subhansaafir/IDS-Website)**  
+  A website which explains data science concepts and tools, build using html, css, java
+
+- **[Pending Projects]**
+  add soon
 ---
 
 ## 📋 Goals
@@ -81,7 +83,7 @@ Here are some of the tools and technologies I’ve worked with:
 
 ---
 
-## ✨ Contact Me
+## 📫 Contact Me
 
 📧 **Email:** [subhansaafir@gmail.com](mailto:subhansaafir@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/subhansaafir](https://linkedin.com/in/subhansaafir)  
