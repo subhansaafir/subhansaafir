@@ -7,6 +7,10 @@
 <h1 align="center">Hi 👋, I'm Subhan Ahmad</h1>
 <h3 align="center">📊 Data Science Student | 🤖 AI Enthusiast | 💻 Explorer of Tech & Automation</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhansaafir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🧭 Table of Contents
