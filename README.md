@@ -90,7 +90,6 @@ My name is Subhan Ahmad. I'm a 3rd-semester Data Science student at PUCIT, passi
 📧 **Email:** [subhansaafir@gmail.com](mailto:subhansaafir@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/subhansaafir](https://linkedin.com/in/subhansaafir)  
 🌐 **GitHub:** [github.com/subhansaafir](https://github.com/subhansaafir)
-
 ---
 ## 📝 Quote
 > “Small consistent efforts, when compounded over time, create extraordinary results.”
