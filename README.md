@@ -45,7 +45,7 @@ My name is Subhan Ahmad. I'm a 3rd-semester Data Science student at PUCIT, passi
 | Python                        | ★★☆☆☆ (Intermediate)     |
 | AI Tools, Prompt Engineering  | ★★★☆☆ (Good)             |
 | Probability and Stats (Math)  | ★★★☆☆ (Good)             |
-| Git & GitHub                  | ★☆☆☆☆ (Learning)         |
+| Git & GitHub                  | ★★☆☆☆ (Learning)         |
 
 </div>
 
